@@ -137,7 +137,8 @@ a{
 }
 .info div h3{
     margin:40px 0;
-    font-weight:800
+    font-weight:800;
+    color:red
 }
 .info div p{
     line-height:1.8;
